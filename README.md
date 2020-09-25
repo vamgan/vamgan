@@ -1,4 +1,4 @@
-### Hi there 👋.
+### Hi there 👋🏻.
 
 <img src="https://github.com/vamgan/vamgan/blob/master/Peach%20and%20Violet%20Multicolored%20Earth%20Day%20Web%20Banner.gif" width="1000">
 
