@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Vamil.
+![alt-text](https://github.com/vamgan/vamgan/blob/master/Peach%20and%20Violet%20Multicolored%20Earth%20Day%20Web%20Banner.gif)
 
 <!--
 **vamgan/vamgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
