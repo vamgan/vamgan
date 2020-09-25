@@ -1,5 +1,6 @@
 ### Hi there 👋.
-![](https://github.com/vamgan/vamgan/blob/master/Peach%20and%20Violet%20Multicolored%20Earth%20Day%20Web%20Banner.gif|width=100px)
+
+<img src="https://github.com/vamgan/vamgan/blob/master/Peach%20and%20Violet%20Multicolored%20Earth%20Day%20Web%20Banner.gif" width="1000">
 
 - 🌱 I’m currently studying Master's in Information Systems Management at Carnegie Mellon University!
 
