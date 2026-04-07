@@ -1,25 +1,29 @@
-### Hi there 👋🏻.
+<h1 align="center">Hi, I'm Vam</h1>
 
-<img src="https://github.com/vamgan/vamgan/blob/master/vamgan.png" width="1000">
+<p align="center">
+  exploring how AI can make software feel more interactive, contextual, and useful
+</p>
 
-- 🌱 I’m currently studying Master's in Information Systems Management at Carnegie Mellon University!
+---
 
-- 📫 How to reach me: hello@vamilgandhi.com
+I like building products, tools, and interfaces that make complex systems easier to work with.
 
-- 👯 I’m looking to collaborate on open source/commercial projects
+Currently, I’m working on **Askable UI** — an open-source project around better AI-powered user experiences.
 
-- ⚡ Fun fact: I play snooker 🎱
-<!--
-**vamgan/vamgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Still early. Still experimenting. That’s the fun part.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
+### Lately
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- thinking about AI-native UI patterns
+- building with agents and workflows
+- exploring developer-friendly abstractions
+- chasing software that feels calm, powerful, and obvious
+
+---
+
+### Find me
+
+- GitHub: [@vamgan](https://github.com/vamgan)
+- LinkedIn: https://www.linkedin.com/in/vamgan
