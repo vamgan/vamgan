@@ -1,29 +1,12 @@
-<h1 align="center">Hi, I'm Vam</h1>
+# Hi, I'm Vamil
 
-<p align="center">
-  exploring how AI can make software feel more interactive, contextual, and useful
-</p>
+I build open source tools for AI interfaces and developer workflows.
 
----
+Projects:
+- [Askable](https://github.com/askable-ui/askable)
+- [Mermkit](https://github.com/MermaidKit/mermkit)
+- [Roastmaster](https://github.com/vamgan/roastmaster)
 
-I like building products, tools, and interfaces that make complex systems easier to work with.
+I also contribute to [Strands SDK](https://github.com/strands-agents/sdk-python).
 
-Currently, I’m working on **Askable UI** — an open-source project around better AI-powered user experiences.
-
-Still early. Still experimenting. That’s the fun part.
-
----
-
-### Lately
-
-- thinking about AI-native UI patterns
-- building with agents and workflows
-- exploring developer-friendly abstractions
-- chasing software that feels calm, powerful, and obvious
-
----
-
-### Find me
-
-- GitHub: [@vamgan](https://github.com/vamgan)
-- LinkedIn: https://www.linkedin.com/in/vamgan
+[LinkedIn](https://www.linkedin.com/in/vamgan)
