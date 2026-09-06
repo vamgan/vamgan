@@ -19,11 +19,14 @@ for the second one.
 | 🟢 | **#2 · spends four hours designing an API so you only type one attribute**<br><sub>then describes it in the README as "one line of code." technically true. spiritually a flex.</sub> | `by design` |
 | 🟢 | **#3 · believes the protocol outlives the library that shipped it first**<br><sub>brings this up at parties. to people who did not ask.</sub> | `wontfix` |
 | 🟢 | **#4 · checks whether someone already built it before proposing it**<br><sub>usually they did. occasionally they built it badly, which is the entire opportunity.</sub> | `works as intended` |
-| 🟢 | **#5 · has rewritten this README more times than any reasonable person would defend**<br><sub>you are reading v7. "v5, allegedly final" did not survive contact with v5.</sub> | `wontfix` |
+| 🟢 | **#5 · has rewritten this README more times than any reasonable person would defend**<br><sub>you are reading v8. "v5, allegedly final" did not survive contact with v5.</sub> | `wontfix` |
+| 🟢 | **#6 · starts the next repo before the last one has a single star**<br><sub>four of them in five days, once. the ideas do not queue politely and i have never learned to make them.</sub> | `wontfix` |
 
 <br/>
 
 ## 🟣 merged anyway
+
+<sub>the first three are one obsession from three angles: getting context into a model that does not have it.</sub>
 
 **[askable-ui](https://github.com/askable-ui/askable)** — give your LLM eyes.
 One attribute for humans, one protocol for agents: the live data behind whatever
@@ -39,13 +42,21 @@ working tree intact. Age-encrypted capsules riding git refs, no server in the
 middle. Nobody's context lives on my hardware, including mine.
 <sub>rust · cli · pre-release</sub>
 
+**[review-to-rule](https://github.com/vamgan/review-to-rule)** — a reviewer
+catches it once, every future coding agent remembers. Turns accepted review
+feedback into scoped rules that live in the repo, so the same note doesn't get
+written by hand on four more pull requests. Reads GitHub, GitLab, Bitbucket,
+Gerrit and Azure Repos; dry-runs everything and writes nothing without you
+saying so.
+<sub>typescript · claude code plugin · codex skill · new</sub>
+
 **[roastmaster](https://github.com/vamgan/roastmaster)** — the only code
 reviewer that hates you. Finds the bug. Fixes the bug. Leaves a
 passive-aggressive comment about the bug. Genuinely useful. Emotionally
 devastating.
 <sub>typescript · cli</sub>
 
-<sub>also: contributor to the [strands agents sdk](https://github.com/strands-agents/sdk-python)</sub>
+<sub>also shipped: **[openpresent](https://github.com/vamgan/openpresent)** — local-first presentation runtime for agents; real React slides edited in place, not regenerated · **[declutter](https://github.com/vamgan/declutter)** — your computer is a mess, teach your agent to clean it · contributor to the [strands agents sdk](https://github.com/strands-agents/sdk-python)</sub>
 
 <br/>
 
